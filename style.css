@@ -1,0 +1,23 @@
+body {
+    background: url(https://cdn.subtlecdn.com/argyle.png);
+    border: 1px solid green;
+    color: green;
+    font-family: "Times New Roman";
+    
+}
+img {
+    border-radius: 30px;
+    transform: rotate(1deg)
+    border: 1px solid green;
+}
+
+img:hover {
+    border-radius:100px;
+    border: 3px solid green;
+    transition: all 3s;
+}
+
+
+table{
+    border: 2px solid green;
+}
